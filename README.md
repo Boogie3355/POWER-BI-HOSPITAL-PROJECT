@@ -43,6 +43,8 @@ Improved allocation of resources.
 
 Data-driven strategies to enhance patient care.
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f4153024-6fe0-40d7-8b37-896b21110482" />
+
 [▶️ Watch Demo](https://youtu.be/0r-Zml5F9Ig)
 
 
