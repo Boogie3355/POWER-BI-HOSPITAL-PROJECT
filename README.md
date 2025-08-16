@@ -45,6 +45,8 @@ Data-driven strategies to enhance patient care.
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f4153024-6fe0-40d7-8b37-896b21110482" />
 
+<img width="1919" height="1039" alt="Image" src="https://github.com/user-attachments/assets/5b9b1ae8-a9f4-459e-9a8f-e5a4e663664e" />
+
 [▶️ Watch Demo](https://youtu.be/0r-Zml5F9Ig)
 
 
